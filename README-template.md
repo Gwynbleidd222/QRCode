@@ -25,7 +25,6 @@ I've returned to becoming a Front-end Developer, this project was very simple. N
 
 ### Continued development
 
-That project was to simple. 
 
 ### Useful resources
 
